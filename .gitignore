@@ -1,0 +1,18 @@
+# ROS2/colcon
+build/
+install/
+log/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# YOLO model + caches
+yolov8n.pt
+*.onnx
+runs/
+
+# OS/editor
+.DS_Store
+*.swp
